@@ -1,162 +1,264 @@
-Hi, I'm Om Sable 👋
+<div align="center">
 
-Software Developer | AI Engineer
+👋 Hey, I'm Om Sable
 
-I build practical software and AI systems, with a focus on Generative AI, RAG, full-stack development, backend engineering, and intelligent applications.
+Software Developer • AI Engineer • GenAI
 
-Currently pursuing a B.Tech in Artificial Intelligence and working as a Software Development / AI Intern.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;RAG+%7C+LLMs+%7C+Semantic+Search;Full-Stack+%7C+Backend+%7C+Python;Turning+ideas+into+working+software" alt="Typing SVG" />
 
-🚀 What I Build
+<br/>
 
-🤖 AI-powered applications and LLM systems
+<a href="https://www.linkedin.com/in/-om-sable">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Omsable46">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:sableom1111@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-🔎 Retrieval-Augmented Generation (RAG) and semantic search
+<img src="https://komarev.com/ghpvc/?username=Omsable46&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
 
-🧠 Knowledge graphs and vector databases
+</div>
 
-🌐 Full-stack web applications
+🧠 About Me
 
-⚡ Real-time communication systems
+class OmSable:
+    role = "Software Developer + AI Engineer"
+    focus = ["Generative AI", "RAG", "Full-Stack", "Backend"]
+    languages = ["Python", "JavaScript", "SQL"]
+    currently_building = [
+        "AI-powered applications",
+        "RAG & semantic search systems",
+        "Backend APIs",
+        "AI automation workflows"
+    ]
 
-🔐 Security and client-side cryptography
+    mindset = "Build → Learn → Iterate"
 
-📊 Data-driven and FinTech applications
+I'm a B.Tech Artificial Intelligence student focused on building practical software and AI systems.
+
+I enjoy working where AI meets software engineering: LLM applications, RAG pipelines, semantic retrieval, knowledge graphs, backend APIs, real-time systems and full-stack products.
+
+🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+🧠 Shadow Persona AI
+
+A personalized AI system that builds a digital persona from documents, websites, GitHub and other user-provided sources.
+
+Stack
+
+React FastAPI Neo4j Qdrant RAG LLMs
+
+Core
+
+Ingestion → Chunking → Embeddings → Graph + Vector Retrieval → LLM
+
+</td>
+
+<td width="50%">
+
+🌐 AI-in-Browser / VANTA
+
+A browser-native AI companion focused on local inference and retrieval without sending the entire workflow to a remote backend.
+
+Stack
+
+React Transformers.js WebGPU WebAssembly SQLite
+
+Core
+
+Local Models → Embeddings → Hybrid Search → RRF → RAG → Memory
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+🔐 ENCRYPTO
+
+A real-time ephemeral communication prototype with client-side cryptography, private messaging and rule-based threat detection.
+
+Stack
+
+React Node.js Express Socket.IO SQLite
+
+Core
+
+AES-GCM ECDH P-256 Web Crypto Threat Detection
+
+</td>
+
+<td width="50%">
+
+📊 FinTech & Data Projects
+
+Building smaller systems around financial data, analytics and automation.
+
+Projects
+
+Crypto Portfolio Tracker
+Credit Card Fraud Detection
+Loan EMI Calculator
+
+Stack
+
+Python Pandas SQL SQLite APIs
+
+</td>
+</tr>
+</table>
 
 🛠️ Tech Stack
 
 Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,sql" />
+</p>
 
+AI / GenAI
 
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" />
+&nbsp;
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semantic_Search-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-059669?style=for-the-badge" />
+</p>
 
+Frontend / Backend
 
-Frontend & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi" />
+</p>
 
+Databases
 
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,neo4j" />
+&nbsp;
+<img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge" />
+</p>
 
+Tools & Platform
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,gcp" />
+&nbsp;
+<img src="https://img.shields.io/badge/WebGPU-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+</p>
 
+📌 Featured Projects
 
+Project
 
-AI & Data
+What it does
 
-
-
-
-
-
-
-Databases & Tools
-
-
-
-
-
-
-⭐ Featured Projects
+Technologies
 
 🧠 Shadow Persona AI
 
-A personalized AI system that builds a digital Shadow from documents, websites, GitHub, LinkedIn, and personal information.
+Personalized AI + RAG knowledge system
 
-Stack: React • FastAPI • Neo4j • Qdrant • Sentence Transformers • RAG • OpenRouter
+React · FastAPI · Neo4j · Qdrant
 
-Highlights
+🌐 AI-in-Browser
 
-Document and web ingestion
+Browser-native local AI companion
 
-Text extraction and chunking
-
-Embedding generation
-
-Neo4j knowledge graph
-
-Qdrant vector search
-
-Semantic retrieval
-
-Persona-specific AI chat
-
-Repository: Shadow Persona AI
-
-🌐 AI-in-Browser / VANTA
-
-A browser-based AI companion focused on local AI processing and intelligent retrieval.
-
-Stack: React • JavaScript • Transformers.js • Web Workers • WebGPU • WebAssembly • SQLite/WASM • sqlite-vec
-
-Highlights
-
-Browser-based model inference
-
-WebGPU acceleration with WebAssembly fallback
-
-Embeddings and semantic search
-
-Vector search
-
-SQLite FTS5
-
-Hybrid retrieval
-
-Reciprocal Rank Fusion (RRF)
-
-RAG and conversational memory
-
-Repository: AI-in-Browser
+React · Transformers.js · WebGPU · SQLite
 
 🔐 ENCRYPTO
 
-A real-time communication prototype combining private messaging, client-side cryptography, threat detection, and ephemeral data.
+Real-time ephemeral communication
 
-Stack: React • Node.js • Express • Socket.IO • SQLite • Web Crypto API
+React · Node.js · Socket.IO · Web Crypto
 
-Highlights
+💰 Crypto Portfolio Tracker
 
-Real-time communication
+Tracks crypto holdings and portfolio performance
 
-Ephemeral rooms
+Python · Pandas · CoinGecko API
 
-AES-GCM encryption
+🛡️ Credit Card Fraud Detection
 
-ECDH P-256 private messaging
+Rule-based transaction analysis
 
-Rule-based threat detection
+Python · Pandas · SQLite
 
-Forensic incident logging
+🧮 Loan EMI Calculator
 
-Repository: ENCRYPTO
+EMI calculation + SQL analysis
 
-📈 Crypto Portfolio Tracker
+Python · SQLite · SQL
 
-Python-based cryptocurrency portfolio tracker using market data APIs and Pandas.
+📈 GitHub Analytics
 
-Stack: Python • Pandas • CoinGecko API
+<div align="center">
 
-Repository: Crypto Portfolio Tracker
+<a href="https://github.com/Omsable46">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Omsable46&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
+</a>
 
-🎯 Currently Learning & Building
+<a href="https://github.com/Omsable46">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omsable46&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+</a>
 
-Generative AI
+<br/>
 
-RAG architectures
+<img src="https://streak-stats.demolab.com/?user=Omsable46&theme=transparent&hide_border=true" />
 
-AI agents and automation
+</div>
 
-Backend engineering
+📊 Contribution Activity
 
-Cloud deployment
+<div align="center">
 
-Data engineering
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omsable46&theme=github-compact&hide_border=true&area=true" />
 
-FinTech applications
+</div>
 
-📫 Connect With Me
+🎯 Current Focus
 
-💼 LinkedIn: linkedin.com/in/-om-sable
+01  Generative AI & LLM Applications
+02  Retrieval-Augmented Generation
+03  AI Agents & Automation
+04  Backend Engineering
+05  Full-Stack Development
+06  Cloud & Deployment
+07  FinTech Applications
 
-💻 GitHub: github.com/Omsable46
+🌱 Currently Learning
 
-💡 Build. Learn. Iterate.
+Advanced RAG AI Agents LLM Applications Cloud Backend Architecture Data Engineering FinTech
 
-I enjoy turning ideas into working software and exploring how AI can make applications more useful, intelligent, and practical.
+🤝 Let's Connect
+
+<div align="center">
+
+If you're interested in AI, software development, GenAI, RAG or building something useful, feel free to connect.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/-om-sable">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sableom1111@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+Build. Learn. Iterate.
+
+</div>
