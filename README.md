@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;RAG+%7C+LLMs+%7C+Semantic+Search;Full-Stack+%7C+Backend+%7C+Python;Turning+ideas+into+working+software" />
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/-om-sable">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 ```python
 class OmSable:
