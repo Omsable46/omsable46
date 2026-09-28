@@ -9,7 +9,11 @@
   <p>Software Developer • AI Engineer • Generative AI • Full Stack Developer</p>
 </div>
 
+<hr>
+
 🧠 About Me
+
+<hr>
 
 <div align="center">
 
@@ -53,7 +57,11 @@
 
 </div>
 
+<hr>
+
 🛠️ Tech Stack
+
+<hr>
 
 <div align="center">
 
@@ -116,7 +124,11 @@
 
 </div>
 
+<hr>
+
 🚀 Featured Projects
+
+<hr>
 
 <div align="center">
 
@@ -278,7 +290,11 @@ SQLite Database • SQL Analysis
 
 </div>
 
+<hr>
+
 💼 Experience
+
+<hr>
 
 <div align="center">
 
@@ -300,7 +316,11 @@ Iteratively improving implementations through mentor feedback, debugging and tec
 
 Contributing to development environment setup and deployment preparation.
 
+<hr>
+
 🎓 Education
+
+<hr>
 
 <div align="center">
 
@@ -313,7 +333,11 @@ G H Raisoni University of Amravati
 
 </div>
 
+<hr>
+
 📊 GitHub Stats
+
+<hr>
 
 <div align="center">
 
@@ -329,7 +353,11 @@ G H Raisoni University of Amravati
 
 </div>
 
+<hr>
+
 📈 Contribution Activity
+
+<hr>
 
 <div align="center">
 
@@ -337,7 +365,11 @@ G H Raisoni University of Amravati
 
 </div>
 
+<hr>
+
 🎯 Current Focus
+
+<hr>
 
 <div align="center">
 
@@ -370,7 +402,11 @@ G H Raisoni University of Amravati
 
 </div>
 
+<hr>
+
 📚 Currently Learning
+
+<hr>
 
 <div align="center">
 
@@ -384,7 +420,11 @@ G H Raisoni University of Amravati
 
 </div>
 
+<hr>
+
 📬 Get in Touch
+
+<hr>
 
 <table align="center" width="70%">
 <tr>
